@@ -2,3 +2,5 @@
 CS2103T First Github Exercise
 
 CS2103T asked me to do this
+
+Some commits in Clone1
